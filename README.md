@@ -27,8 +27,8 @@ files can be run in [jupyter notebook](https://jupyter.readthedocs.io/en/latest/
 The following instructions will help you build up the software step by step.
 
 1. Follow the tutorial in [Universal Robot package for ROS Kinetic](http://wiki.ros.org/universal_robot) and [Robotiq ROS package](http://wiki.ros.org/robotiq/) to set up hardware properly.
-2. Run Realsense SR300 camera in ROS. See [link](http://wiki.ros.org/RealSense)
-3. Connect Arduino and tactile sensor, output the sensor readings in ROS. See [link](http://wiki.ros.org/rosserial_arduino/Tutorials)
+2. Run Realsense SR300 camera in ROS. See [link](http://wiki.ros.org/RealSense).
+3. Connect Arduino and tactile sensor, output the sensor readings in ROS. See [link](http://wiki.ros.org/rosserial_arduino/Tutorials).
 4. Setup frames:
    ```
    cd scripts
